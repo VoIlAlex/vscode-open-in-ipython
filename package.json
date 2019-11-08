@@ -2,8 +2,8 @@
 	"name": "open-in-ipython",
 	"publisher": "voilalex",
 	"repository": {
-		"type": "",
-		"url": ""
+		"type": "git",
+		"url": "https://github.com/VoIlAlex/vscode-open-in-ipython"
 	},
 	"displayName": "Open in IPython",
 	"description": "Using this extension you can open a file with IPython right from File Explorer context menu.",
