@@ -14,6 +14,8 @@ Using this extension you can open a file in IPython session right from File Expl
 
 ## Requirements
 
+You should have IPython installed on your machine.
+
 ## Extension Settings
 
 ## Known Issues
