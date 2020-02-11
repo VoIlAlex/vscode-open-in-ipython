@@ -1,4 +1,4 @@
-# Open in IPython
+# Open in IPython | Visual Studio Code
 
 Using this extension you can open a file in IPython session right from File Explorer. It's helpful sometimes, I think.
 
